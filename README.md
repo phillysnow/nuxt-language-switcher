@@ -4,7 +4,7 @@
 
 ## Check out our article for a step by step guide to getting this project up and running
 
-> [Prismic project guide](https://prismic.io/docs/vuejs/getting-started/primsic-nuxt)
+> [Prismic project guide](https://prismic.io/docs/technologies/nuxtjs)
 
 Then you can access it at [http://localhost:3000](http://localhost:3000).
 
@@ -31,7 +31,7 @@ nuxt generate
 
 ## Learn more about using Prismic with Nuxt.js
 
-> [Prismic Nuxt.js Documentation](https://prismic.io/docs/vuejs/beyond-the-api/primsic-nuxt)
+> [Prismic Nuxt.js Documentation](https://prismic.io/docs/technologies/nuxtjs)
 
 ## License
 
